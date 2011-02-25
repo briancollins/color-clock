@@ -1,3 +1,5 @@
+// https://github.com/briancollins/color-clock
+
 $(function() {
   var hour1 = $("#digit1"),
   hour2     = $("#digit2"),
